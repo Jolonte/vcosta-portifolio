@@ -257,13 +257,13 @@
     justify-content: center;
     border-radius: var(--layout-lite);
     background-color: var(--mauve);
-    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.6);
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.4);
 }
 .item:hover {
     cursor: pointer;
     background-color: var(--mauve-2);
     transition: all 0.2s;
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.6);
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.5);
     transform: scale(1.05);
 }
 .item:active {
